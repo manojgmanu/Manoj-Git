@@ -25,6 +25,10 @@ public class VectorContainsContainsAllExample {
 		  System.out.println(v1.contains(56));
 		  System.out.println(v1.containsAll(v2));
 		  System.out.println(v2.containsAll(v1));
+		  System.out.println(v1.containsAll(v2));
+		  System.out.println(v1.containsAll(v2));
+		  System.out.println(v1.containsAll(v2));
+		  
 	}
 
 }
