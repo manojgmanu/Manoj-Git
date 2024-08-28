@@ -16,8 +16,6 @@ public class VectorCloneExample {
 	  System.out.println(v1);
 	  System.out.println(v2);
 	  System.out.println("Modifying v2");
-	  v2.add(60);
-	  v2.add(70);
 	  System.out.println(v1);
 	  System.out.println(v2);
 	}
