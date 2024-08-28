@@ -31,5 +31,11 @@ public class VectorsExample2 {
 	  System.out.println("3 param");
 	  System.out.println(v.capacity());
 	  System.out.println(v.size());
+	  System.out.println(v.capacity());
+	  System.out.println(v.size());
+	  System.out.println(v.capacity());
+	  System.out.println(v.size());
+	  System.out.println(v.capacity());
+	  System.out.println(v.size());
 	}
 }
