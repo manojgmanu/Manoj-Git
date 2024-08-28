@@ -30,5 +30,10 @@ public class VectorContainsContainsAllExample {
 		  System.out.println(v1.containsAll(v2));
 		  
 	}
+	private void Sysy() {
+		// TODO Auto-generated method stub
+System.out.println("Brach are created in the main");
+System.out.println( "hi hello");
+	}
 
 }
